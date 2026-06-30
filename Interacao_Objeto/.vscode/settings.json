@@ -67,5 +67,5 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "Walking Simulator.slnx"
+    "dotnet.defaultSolution": "Interacao_Objeto.slnx"
 }
